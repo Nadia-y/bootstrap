@@ -1,0 +1,129 @@
+.dot li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+
+#header{
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    color:white;
+}
+.moe-menu{
+    margin: 20px 25px;
+  
+}
+a:link {
+    
+    font-size: 16px;
+
+}
+.text{
+        text-align: center;
+}
+h5, h1{
+    text-align: center;
+}
+
+.icon {
+      text-align: center;
+padding-top: 90px;
+
+}
+.icon a:hover{
+    color:#c7b299;
+}
+.web:hover{
+    color:#c7b299;
+}
+.web{
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+.waxom{
+    background-color: #fbfaf8;
+    margin-top: 80px;
+position: relative;
+height: 700px;
+}
+
+.tt{
+    position: absolute;
+   bottom:0;
+   right: 0;
+   left:0;
+   margin: auto;
+}  
+ .picture{
+    position: absolute;
+    bottom:0;
+    right: 190px;
+    left:190px;
+    margin: auto;
+ }
+.title{
+    padding-top: 80px;
+    text-align: center;
+}
+.title_p{
+    width: 755px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.fluid{
+   height: 145px;
+   background-color: #261e1b;
+}
+.ideas{
+ color: #fbfaf8;
+ padding-top: 45px;
+}
+.title_p22{
+    color: #615855;
+  
+ 
+}
+.color{
+    color: #615855;  
+}
+.icon a{
+    color:black;
+    font-size: 40px;
+}
+.button{
+    background-color: #998675;
+    color: #fbfaf8;
+    margin-top: 45px;
+    height: 50px;
+    width: 165px;
+    border-radius: 5px;
+    font-size:14px;
+    font-weight: bold;
+    border:0;
+}
+
+.all a{
+    color:#8c8c8c;
+ border-style: solid;
+    border-width: 0.5px;
+    
+    height: 40px;
+    text-align: center;
+}
+.all{
+    margin: 10px;
+}
+
+.images_iitem{
+    margin-bottom: 15px;
+}
+.video{
+    margin-top: 80px;
+  }
+.main{
+    margin-top: 80px;
+}
