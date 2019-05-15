@@ -1,0 +1,309 @@
+.dot li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+
+#header{
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    color:white;
+}
+.moe-menu{
+    margin: 20px 25px;
+  
+}
+a:link {
+    
+    font-size: 16px;
+
+}
+.nav-pills .nav-link.active{
+    background-color:#998675;
+}
+.text{
+        text-align: center;
+}
+h5, h1{
+    text-align: center;
+}
+
+.icon {
+      text-align: center;
+padding-top: 90px;
+
+}
+.icon a:hover{
+    color:#c7b299;
+}
+.web:hover{
+    color:#c7b299;
+}
+.web{
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+.waxom{
+    background-color: #fbfaf8;
+    margin-top: 80px;
+position: relative;
+height: 700px;
+}
+
+.tt{
+    position: absolute;
+   bottom:0;
+   right: 0;
+   left:0;
+   margin: auto;
+}  
+ .picture{
+    position: absolute;
+    bottom:0;
+    right: 190px;
+    left:190px;
+    margin: auto;
+ }
+.title{
+    padding-top: 80px;
+    text-align: center;
+}
+.title_p{
+    width: 755px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.fluid{
+   height: 145px;
+   background-color: #261e1b;
+}
+.ideas{
+ color: #fbfaf8;
+ padding-top: 45px;
+}
+.title_p22{
+    color: #615855;
+  
+ 
+}
+.color{
+    color: #615855;  
+}
+.icon a{
+    color:black;
+    font-size: 40px;
+}
+.button{
+    background-color: #998675;
+    color: #fbfaf8;
+    margin-top: 45px;
+    height: 50px;
+    width: 165px;
+    border-radius: 5px;
+    font-size:14px;
+    font-weight: bold;
+    border:0;
+    outline: none;
+}
+
+.all a{
+    color:#8c8c8c;
+ border-style: solid;
+    border-width: 0.5px;
+    
+    height: 40px;
+    text-align: center;
+}
+.all{
+    margin: 10px;
+}
+
+.images_iitem{
+    margin-bottom: 15px;
+}
+.video{
+    margin-top: 80px;
+  }
+.main{
+    margin-top: 80px;
+}
+.title_t{
+    font-family:serif;
+    font-weight: bold;
+}
+.title_pi{
+    font-family:serif;
+}
+.device{
+    list-style: none;
+
+}
+.device img{
+    margin-right: 20px;
+}
+.device li{
+    font-family:serif;
+    margin-bottom:5px;
+}
+.spisok{
+    margin-top: 70px;
+}
+.fluid2{
+    height: 300px;
+    background-color: #261e1b;
+
+}
+    .number{
+        color:white;
+        font-size: 45px;
+        font-weight: lighter;
+        
+    }
+  
+.statisfied{
+ padding-top: 60px
+}
+.post{
+   color:#c7b299;
+   text-transform: uppercase; 
+}
+.title_tt{
+    font-size: 21px;
+    color: #555555;
+    font-family: 'Raleway', sans-serif;
+}
+.ship{
+    padding-top:20px;
+    padding-left: 20px;
+}
+.read{
+    color: #555555;
+    text-transform: none;
+
+}
+.read2{
+    position: relative;
+    top:340px;
+    left:30px;
+}
+.noyt{
+    position: absolute;
+    display: block;
+ 
+}
+.read3{
+    color: white;
+    
+}
+
+.rr{
+    margin-top: 40px;
+}
+
+.mountain{
+    margin-top: 80px;
+   
+  height: 500px;
+  background: url("img/mountain2.png") no-repeat;
+  background-position: right 55%;
+ 
+}
+ .ff{
+     padding-top: 195px;
+   
+ }
+ .moe-menu.nav-pills .nav-link{
+     color:white;
+ }
+ .moe-menu.nav-pills .nav-link:hover{
+    color:orangered;
+}
+.contact{
+    height: 500px;
+    background-color: #191919;
+    border: 0.5px;
+}
+.recent{
+    color:white;
+    font-weight: bold;
+    font-size: 24px;
+padding-top:80px;
+}
+
+.logo_foot{
+   padding-top:70px;
+}
+.twit{
+    color: #444444;
+    padding-top: 30px;
+  
+}
+.read4{
+    color:#d1d1d1;
+}
+.twit_p a:hover{
+   text-decoration: none;
+    color:red;
+}
+.twit_data{
+    font-size: 12px;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
+.twit-text{
+    color: #444444;
+    margin-bottom: 0;
+}
+.polosa{
+ margin: 0px;
+
+}
+.twit_data2{
+    color:#d1d1d1;
+    padding-top: 10px;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.twit-text2{
+    color: #c7b299;
+    margin-bottom: 0;
+ }
+ .twit_data3{
+    font-size: 12px;
+    margin: 0;
+  }
+ .widget{
+     padding-top: 30px;
+ }
+ 
+ .twit-text3{
+    color: #444444;
+    margin-bottom: 0;
+    padding-top: 30px;
+
+ }
+ .ft{
+     margin-bottom: 10px;
+ }
+ .wax{
+color:#0796be;
+ }
+ .bit{
+     color:#959595;
+ }
+ .footer{
+    background-color: #111111;
+    height: 130px;
+    color: #444444;
+    padding: 50px 0 0 0 ;
+
+}
+
+ .policy{
+    color:#959595;
+    }
+
